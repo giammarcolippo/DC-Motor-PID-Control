@@ -58,7 +58,7 @@ A **PID controller** regulates the angular position of the arm.
 **PID law:**
 
 $$
-u(t) = K_p e(t) + K_i \int e(t) \, dt + K_d \frac{de(t)}{dt}
+u(t) = K_p e(t) + K_i \int e(t) \ dt + K_d \frac{de(t)}{dt}
 $$
 
 
@@ -109,7 +109,7 @@ Typical performance metrics:
 Graphs and screenshots are stored in the `results/` folder.
 
 **Figure 2 – DC Motor PID: Torque Disturbance**
-![PID_DC_Motor_Torque_Disturbance](figures/PID_DC_Motor_Torque_dist.png)
+![PID_DC_Motor_Torque_Disturbance](results/PID_DC_Motor_Torque_dist.png)
 
 **Case 1: No external torque**
 
