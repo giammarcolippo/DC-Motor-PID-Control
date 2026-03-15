@@ -2,7 +2,7 @@
 PID-based position control of a robotic arm driven by a DC motor, implemented in MATLAB/Simulink with simulation data analysis in Python.
 
 ## Project Overview
-This project implements a **PID controller** for **angular position control of a robotic arm** driven by a DC motor using MATLAB and Simulink.  
+This project implements a **PID controller** for **angular position control of a robotic arm** driven by a DC motor using **MATLAB** and **Simulink**.  
 The goal is to rotate the arm **90°** accurately. Simulation data are analyzed in **Python**.
 This project demonstrates:
 - Modeling a DC motor for position control
